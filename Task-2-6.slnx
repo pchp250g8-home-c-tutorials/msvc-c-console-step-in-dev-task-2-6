@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="Task-2-6.txt" />
+  </Folder>
+  <Project Path="Task-2-6-en/Task-2-6-en.vcxproj" Id="85c6d365-9fd1-4dbc-82f1-cb3cfc0745c3" />
+  <Project Path="Task-2-6-ru/Task-2-6-ru.vcxproj" Id="ebe36846-78ba-4173-b4b9-42f5777df20e" />
+</Solution>
